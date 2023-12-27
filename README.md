@@ -9,15 +9,10 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  Hi, I'm Akintunde Jegede, Software Engineer from NIGERIA
   <br>
-  <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
-  <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
-  <br>
-  📚 I’m currently focusing on Data Science 
-  <br>
+  💻 I love Writing code
+ 
   📫 How to reach me 👇
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:haleemborham3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
@@ -29,16 +24,10 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
-<!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <img title="C++" height="25" src="images/cpp.svg"></code>
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
-<!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
   <img title="Python" height="25" src="images/python-original.svg">
   <img title="Numpy" height="25" src="images/numpy.svg">
   <img title="Pandas" height="25" src="images/pandas.svg">
-  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
-  <img title="Seaborn" height="25" src="images/seaborn.svg">
-  <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
   <img title="Javascript" height="25" src="images/javascript.svg">
@@ -46,7 +35,6 @@
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="GitHub" height="25" src="images/github.svg">
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
-<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
 <hr>
 
@@ -85,9 +73,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
 </p>
 -->
-<p align="center">
-  <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/HalemoGPA?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
-</p>
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
